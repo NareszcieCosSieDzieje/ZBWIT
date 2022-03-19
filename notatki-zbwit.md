@@ -15,31 +15,29 @@ Zrobione (mniej więcej):
 - [x] antywirus
 - [x] klient poczty firmowej i pakiet oprogramowania np. pakiet office, google workspaces
 - [x] kategoryzacja sprzętu itp. jest spoko
+- [x] spójne nazewnictwo pozycji (nie robić np. CTO, deweloper)
+- [x] dostęp przez karty dostępu (smart card) i zamek fizyczny
+- [x] rozpisać kto ma dostępy do karty, do kluczy itp.
+- [x] numerki budynków
+- [x] rozmiar budynku, pomieszczeń itp.
+- [x] Poprawić schematy budynków
+- [x] wersje Postegres, Ubuntu itp.
+- [x] przemyśleć alarmy przeciwpożarowe
+- [x] dodać oprogramowanie?
+- [x] inwentaryzacja
+- [x] oprogramowanie przechwoujące dane klientów (narzędzia zewnętrzne)
+- [x] komunikacja wewnętrzna i zewnętrzna (poczta, itp.)
+- [x] porobić tabelki gdzie pasują
+- [x] procedury ogarnąć (tylko te odnoszące się do bezpieczeństwa) (zrobić: odzyskiwanie danych, bezpieczeństwo, pożar itp.)
+- [x] serwerownia przemyśleć (standardy przeciwpożarowe itp.)
+- [x] Poprawić schemtay sieci
+- [x] podać ip-ki wewnętrzne!
 
 Do zrobienia/sprawdzenia:
 
-- [ ] spójne nazewnictwo pozycji (nie robić np. CTO, deweloper)
-- [ ] dostęp przez karty dostępu (smart card) i zamek fizyczny
-- [ ] rozpisać kto ma dostępy do karty, do kluczy itp.
-- [ ] numerki budynków
 - [ ] schemat budynków w simsach
-- [ ] rozmiar budynku, pomieszczeń itp.
-- [ ] przemyśleć alarmy przeciwpożarowe
-- [ ] podać ip-ki wewnętrzne!
-- [ ] opis przetwarzania danych
-- [ ] inwentaryzacja
-- [ ] sprecyzować VPN jeżeli używamy
-- [ ] dodać oprogramowanie?
-- [ ] oprogramowanie przechwoujące dane klientów (narzędzia zewnętrzne)
-- [ ] backupy z zewnętrznych usług
-- [ ] serwerownia przemyśleć (standardy przeciwpożarowe itp.)
 - [ ] okreslic dokladnie sprzet sieciowy (firewall tez)
-- [ ] komunikacja wewnętrzna i zewnętrzna (poczta, itp.)
-- [ ] procedury ogarnąć (tylko te odnoszące się do bezpieczeństwa) (zrobić: odzyskiwanie danych, bezpieczeństwo, pożar itp.)
-- [ ] porobić tabelki gdzie pasują
-- [ ] wersje Postegres, Ubuntu itp.
-- [ ] Poprawić schematy budynków
-- [ ] Poprawić schemtay sieci
+- [ ] opis przetwarzania danych
 
 Ogólne uwagi:
 
